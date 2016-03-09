@@ -1,6 +1,6 @@
 # Doubly linked list with sentinels
 
-A simple doubly linked list implementation with sentinels in Java, togehter with unit tests. JUnit is required.
+A simple doubly linked list implementation with sentinels in Java, together with unit tests. JUnit is required.
 
 Note that the Java utils have an own optimized linked list data struture.
 
